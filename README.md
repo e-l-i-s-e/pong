@@ -1,4 +1,4 @@
-# pong
+# Pong
 
 Play pong with an AI opponent created with Tensorflow.js!
 
